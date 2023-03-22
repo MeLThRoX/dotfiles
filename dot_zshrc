@@ -1,0 +1,24 @@
+source /opt/homebrew/share/antigen/antigen.zsh
+
+## ls aliases
+alias ls=lsd
+alias sl=ls
+alias l=ls
+alias ll="l -l"
+alias la="l -lA"
+alias lt="ll --tree --depth 3"
+alias lat="lt -A"
+alias tree="ls --tree"
+
+## other aliases
+alias vim=nvim
+alias top=htop
+
+antigen use oh-my-zsh
+
+antigen theme dieter
+
+antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle zsh-users/zsh-autosuggestions
+
+antigen apply
