@@ -3,7 +3,7 @@
 ## **Initialize** - Clone dotfiles from this repo
 If Chezmoi is **NOT** installed:
 ```bash
-sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply $GITHUB_USERNAME
+sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply MeLThRoX
 ```
 If Chezmoi is installed:
 ```bash
