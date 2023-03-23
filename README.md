@@ -1,5 +1,10 @@
 # Dotfiles [Chezmoi](https://www.chezmoi.io)
 
+## Dependencies
+
+- [vim-plug](https://github.com/junegunn/vim-plug)
+- [zsh-antigen](https://github.com/zsh-users/antigen)
+
 ## **Initialize** - Clone dotfiles from this repo
 If Chezmoi is **NOT** installed:
 ```bash
