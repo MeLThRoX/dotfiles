@@ -4,8 +4,6 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
 Plug 'vim-python/python-syntax'
 Plug 'ctrlpvim/ctrlp.vim'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'jmcantrell/vim-virtualenv'
 call plug#end()
 
 " Airline Config

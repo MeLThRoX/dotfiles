@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/melthrox/docker/jellyseerr'
+let g:netrw_dirhist_9='/home/melthrox/docker'
+let g:netrw_dirhist_8='/home/melthrox/docker/jellyseerr'
+let g:netrw_dirhist_7='/home/melthrox/docker'
+let g:netrw_dirhist_6='/home/melthrox/docker/portainer'
+let g:netrw_dirhist_5='/home/melthrox/docker/jellyfin'
+let g:netrw_dirhist_4='/home/melthrox/docker/cloudflare'
+let g:netrw_dirhist_3='/home/melthrox/docker/jellyfin'
+let g:netrw_dirhist_2='/home/melthrox/docker/sonarr'
+let g:netrw_dirhist_1='/home/melthrox/docker/qbittorrent'
